@@ -1,5 +1,25 @@
 # OpenAudit: advancing governance research and accountability with natural language-processed audit reports
 
+## 🆕 Interactive Web Application
+
+**NEW!** We now have an interactive web application for exploring the audit data:
+
+- **📊 Visual Dashboard** with charts and statistics
+- **🔍 Data Explorer** with powerful filtering
+- **📑 Browse 25 Audit Topics** from LDA topic modeling
+- **🔌 REST API** for programmatic access
+
+**→ [Get Started with the Web App](./GETTING_STARTED.md)** (5-minute setup)
+**→ [Full Documentation](./README_VISUALIZER.md)** (detailed guide)
+
+Try it now:
+```bash
+./quick-start.sh
+# Then open: http://localhost:5173
+```
+
+---
+
 ## About the repository
 
 This repository contains the beta version of OpenAudit, an open data initiative aiming to make publicly-available audit reports more tractable for use by researchers and public-interest audiences using NLP and machine learning methods. Here, we focus on a subset of these reports in terms of coverage and content to provide a proof-of-concept of the planned broader dataset and platform. 
